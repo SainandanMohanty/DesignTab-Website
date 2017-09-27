@@ -1,4 +1,5 @@
 
+
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
@@ -13,7 +14,7 @@ footer .row {
 .jumbotron {
   background-size: cover;
   color: dimgrey;
-  height: 450px;
+  height: 390px;
 }
 
 .jumbotron p {
@@ -22,7 +23,7 @@ footer .row {
 }
 
 .jumbotron h2 {
-  font-size: 60px;
+  font-size: 65px;
   font-weight: 700;
   color: dimgray;
 }
@@ -47,7 +48,11 @@ footer li img {
 }
 
 .img-responsive {
-  display: block;;
+  display: inline-block;
   max-width: 20%;
   max-height: auto;
+}
+
+.buttons_home {
+    display: inline;
 }
