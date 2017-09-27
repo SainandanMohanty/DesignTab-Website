@@ -1,6 +1,8 @@
 
 
 body {
+
+  background-color: white; /*#FCFDFD*/
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
 }
@@ -13,7 +15,7 @@ footer .row {
 
 .jumbotron {
   background-size: cover;
-  color: dimgrey;
+  background-color: #eee; /*#F1F1F4;*/ /*#FDFDFC;*/
   height: 390px;
 }
 
